@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.pipenv/
+pip-wheel-metadata/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# dotenv environment variables
+.env
+.env.*
+
+# Test coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+
+# MyPy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Local data
+*.sqlite3
+*.db
+
+# Node modules (if any JS/TS code)
+node_modules/
+
+# Azure artifacts (if using Azure)
+*.azure/
+
+# Custom agent data
+data/
+logs/
