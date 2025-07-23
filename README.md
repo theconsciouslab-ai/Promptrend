@@ -27,7 +27,7 @@ PrompTrend is a comprehensive system for continuous monitoring and evaluation of
 
 ## 🏗️ System Architecture
 
-![PrompTrend Architecture](docs/images/promptrend_architecture.png)
+![PrompTrend Architecture](Pvaf_scoring logic.png)
 *Figure: Three-stage PrompTrend processing pipeline transforming social media content into actionable vulnerability intelligence*
 
 Our framework implements:
