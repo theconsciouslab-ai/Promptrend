@@ -9,9 +9,9 @@
 
 **PrompTrend: Continuous Community-Driven Vulnerability Discovery and Assessment for Large Language Models**
 
-*[Author Names]*
+*Tarek Gasmi, Ramzi Guesmi, Mootez Aloui, Jihene Bennaceur*
 
-[Read Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Cite](#-citation)
+[Read Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Cite](#citation)
 
 ## 🎯 Overview
 
@@ -27,7 +27,7 @@ PrompTrend is a comprehensive system for continuous monitoring and evaluation of
 
 ## 🏗️ System Architecture
 
-![PrompTrend Architecture](Pvaf_scoring logic.png)
+![PrompTrend Architecture](Pvaf_scoring%20logic.png)
 *Figure: Three-stage PrompTrend processing pipeline transforming social media content into actionable vulnerability intelligence*
 
 Our framework implements:
@@ -181,7 +181,7 @@ If you use PrompTrend in your research, please cite:
 ```bibtex
 @article{promptrend2025,
   title={PrompTrend: Continuous Community-Driven Vulnerability Discovery and Assessment for Large Language Models},
-  author={[Author Names]},
+  author={Gasmi, Tarek and Guesmi, Ramzi and Aloui, Mootez and Bennaceur, Jihene},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2025}
 }
